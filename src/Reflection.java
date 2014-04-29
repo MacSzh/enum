@@ -7,6 +7,7 @@ import java.util.TreeSet;
 
 /**
  * Created by shenzaih on 2014/4/25.
+ * values（）是编译器编译的时候加上去的
  */
 
 enum Explore{HERE,THERE}
