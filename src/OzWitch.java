@@ -9,6 +9,7 @@ import util.Log;
 public enum OzWitch {
     WEST("Miss Culch, aka the world"),NORTH("where are you from"),EAST("i am from English") ,SOURTH("Good morning")  ;
     private String description ;
+    private static String mString;
 
     private OzWitch(String description) {
         this.description = description;
